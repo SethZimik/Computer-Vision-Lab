@@ -1,6 +1,6 @@
 # Computer-Vision-Lab
 This lab covers fundamental computer vision techniques including image and video acquisition, geometric transformations, histogram analysis, edge and corner detection, image enhancement, filtering, texture analysis, segmentation, and object detection using classical and deep learning approaches implemented in Python with OpenCV.
-# Introduction*
+# Introduction
 Computer Vision enables machines to interpret and analyze digital images and videos. This lab focuses on fundamental image processing and vision techniques using OpenCV to understand image acquisition, enhancement, feature extraction, segmentation, and object detection.
 # Aim
 To understand and implement fundamental Computer Vision techniques using Python and OpenCV through a series of practical experiments.
