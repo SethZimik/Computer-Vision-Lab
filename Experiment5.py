@@ -1,4 +1,3 @@
-# Sunil Angom NDU202400105
 import cv2
 import numpy as np
 
@@ -31,3 +30,4 @@ cv2.imshow("Sharpened Image", sharpened_img)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
